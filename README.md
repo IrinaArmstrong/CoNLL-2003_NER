@@ -31,6 +31,15 @@ Also, it is noticeable that the problems are caused by detecting MISK (names of 
 *   The harders named entity type for detection is **MISK (names of miscellaneous entities)** (examples: *German, EU-wide, Spanish, BSE, British and etc.*) 
 due to the questionable semantic boundaries of the class (very close to LOC or O).
 
+### Results
+
+<div align=center>
+
+![](Sample.PNG?raw=true)
+*Detected Named Entities from notebook*
+
+</div>
+
 
 ### **Future improvements**
 
