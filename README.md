@@ -3,8 +3,8 @@ Named entity recognition (NER) on CoNLL-2003 dataset (English subset).
 
 ---
 
-**The main notebook with BERT models** training and evaluation cycle for this task is: [TestTaskNER.ipynb](https://) <br>
-**The model with additional CRF head** was running in separate notebook [TestTaskNER CRF](https://) due to different libraries & frameworks versions.
+**The main notebook with BERT models** training and evaluation cycle for this task is: [My_TestTaskNER.ipynb](https://github.com/IrinaArmstrong/CoNLL-2003_NER/blob/main/My_TestTaskNER.ipynb) <br>
+**The model with additional CRF head** was running in separate notebook [My_TestTaskNER CRF](https://github.com/IrinaArmstrong/CoNLL-2003_NER/blob/main/My_TestTaskNER CRF.ipynb) due to different libraries & frameworks versions.
 
 #### Used instruments
 * pytorch and pytorch-lightning
